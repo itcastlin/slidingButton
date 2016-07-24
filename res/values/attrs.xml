@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- 自定义属性 -->
+    <declare-styleable name="SlidingSwicth">
+        <attr name="ss_bg" format="reference" />
+        <attr name="ss_btn_bg" format="reference" />
+        <attr name="ss_checked" format="boolean" />
+	</declare-styleable>
+
+</resources>
